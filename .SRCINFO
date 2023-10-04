@@ -1,0 +1,8 @@
+pkgbase = fujitsu-s1300-drivers
+	pkgdesc = SANE drivers for Fujitsu S1300
+	pkgver = 0.1.0
+	pkgrel = 1
+	arch = any
+	depends = sane
+
+pkgname = fujitsu-s1300-drivers
